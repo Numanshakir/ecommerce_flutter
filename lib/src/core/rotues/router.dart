@@ -1,7 +1,7 @@
 
 import 'package:go_router/go_router.dart';
 
-import '../../features/Ecommerce/domain/models/product.dart';
+import '../../features/Ecommerce/data/models/product.dart';
 import '../../features/Ecommerce/presentation/pages/product_detail_page.dart';
 import '../../features/Ecommerce/presentation/pages/product_listing_page.dart';
 

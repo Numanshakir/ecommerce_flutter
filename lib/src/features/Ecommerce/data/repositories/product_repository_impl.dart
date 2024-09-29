@@ -1,7 +1,9 @@
 // lib/data/repositories/product_repository_impl.dart
 import 'package:dio/dio.dart';
-import '../../domain/models/product.dart';
+import '../../data/models/product.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
+
+import '../models/product.dart';
 
 part 'product_repository_impl.g.dart';
 

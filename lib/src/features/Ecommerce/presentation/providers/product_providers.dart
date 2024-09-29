@@ -1,6 +1,6 @@
 // lib/presentation/providers/product_providers.dart
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import '../../domain/models/product.dart';
+import '../../data/models/product.dart';
 import '../../domain/use_cases/fetch_products_use_case.dart';
 import '../../data/repositories/product_repository_impl.dart';
 

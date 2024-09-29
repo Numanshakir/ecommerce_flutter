@@ -1,7 +1,7 @@
 // lib/presentation/pages/product_detail_page.dart
 import 'package:flutter/material.dart';
 
-import '../../domain/models/product.dart';
+import '../../data//models/product.dart';
 
 class ProductDetailPage extends StatelessWidget {
   final Product product;
